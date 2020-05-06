@@ -1,0 +1,31 @@
+body {
+	background-color: black;
+	color: white;
+}
+.ht {
+	margin-top: 250px;
+	margin-left: 70px;
+	font-size: 64px;
+	font-family: Comic Sans MS;
+}
+.buildimg {
+	float: right;
+	height: 200px;
+	width: 1200px;
+	margin-right: 10px;
+	border: 4px dashed red;
+}
+.button {
+	margin-left: 10px;
+	border: 4px dashed red;
+	background-color: blue;
+	color: white;
+	font-family: Comic Sans MS;
+	margin-top: 120px;
+	font-size: 24pt;
+}
+.note {
+	margin-top: 90px;
+	margin-left: 40px;
+	font-size: 32px;
+}
